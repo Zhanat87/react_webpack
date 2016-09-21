@@ -1,3 +1,13 @@
+.idea
+webpack-getting-started/node_modules
+webpack-getting-started/npm-debug.log
+demo-webpack/node_modules
+demo-webpack/npm-debug.log
+kanban-app/node_modules
+kanban-app/npm-debug.log
+
+
+
 # Logs
 logs
 *.log

@@ -1,0 +1,10 @@
+body {
+    background: lime;
+}
+p {
+    color: greenyellow;
+    font: 20px bold;
+}
+:local(.redButton) {
+    background: red;
+}
